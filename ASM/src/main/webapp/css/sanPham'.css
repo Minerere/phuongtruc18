@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.product-picture {
+	height: 744px;
+	width: 641px;
+	margin: 0 0 20px 0;
+	position: relative;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	right: 0px;
+	float:left;
+	display: block;
+}

@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+}
+div {
+    display: block;
+}
+.header{ 
+    background-color: #515154;  
+    position: fixed;
+    top: 0;
+    z-index: 30;
+    width: 1549px;
+    height: 64px;
+    
+}
+
+.header .header-lower{
+    display: flex;
+    max-width: 1185px;
+    align-items: center;
+    justify-content: space-between;   
+    padding: 0;
+    
+
+}
+.header .header-menu{
+    position: relative;
+    z-index: 5;
+    max-width: 980px;
+    margin: auto;
+    border: unset;
+    padding: 0;
+    text-align: center;
+    
+}
+.header .header-links-wrapper {
+
+    display: flex;
+    justify-content: space-evenly;   
+     align-items: center;
+    margin-left: 20px;
+}
+.header .search-icon {
+    background: url("https://shopdunk.com/images/uploaded-source/icon/search-icon-1.png") left center no-repeat;
+    background-position: 60%;
+    padding: 15px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 40px;
+}
+.header #topcartlink {   
+    width: 40px;
+    font-size: 20px;
+    max-width: 400px;
+    margin: auto;
+    padding: unset;
+    position: relative;
+}
+.header .qty{
+    background-color: #fff;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 18px;
+    right: 0;
+    line-height: 16px;
+    overflow: hidden;
+    color: gray;
+    font-family: Arial;
+    font-size: 12px;
+    
+    
+}
+.header .login-icon {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 64px;
+    padding-top: 20px;
+    width: 40px;
+}
+.textBox{
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 20px;   
+    cursor: pointer;
+    padding: 22px 16px 22px 16px;
+}
+.textBox:hover{
+    background-color: #626265;   
+}
+
+.carousel-inner{
+    width: 1549px;
+    height: 421px;
+    margin-top: 64px;
+   
+    z-index: 1; 
+    display: block;
+    overflow: hidden;
+   
+}
+.carousel-inner .img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;     
+   
+}
+.carousel-control{
+    height: 48px;
+    width: 48px;
+    background-color: rgba(85, 81, 81, 0.1);
+    border-radius: 50%;
+   
+}
+
+.search-box .store-search-box{
+    background: #000;
+    width: 100%;
+    position: fixed;
+    margin: unset;
+    height: 66px;
+    z-index: 99999;
+    top: 0;
+    text-align: center;
+}
+
+.carousel-inner1{
+    width: 100%;
+    height: 100%;
+    margin-top: 64px;
+    max-width:1200px;
+    z-index: 1; 
+    padding-top:100px;
+    padding-bottom:50px;
+    display: block;
+    overflow: hidden;
+   
+}
+.carousel-inner1 .img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;     
+   
+}
+
+.horizontal-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.horizontal-list li {
+  margin-right: 10px;
+}

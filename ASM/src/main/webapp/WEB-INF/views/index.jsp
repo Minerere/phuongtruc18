@@ -92,10 +92,10 @@
 					<ul class="navbar-nav">
 						<li class="nav-item"><a
 							class="textBox nav-link active text-light px-4"
-							aria-current="page" href="/iphone">iPhone</a></li>
+							aria-current="page" href="/ASM/Iphone.jsp">iPhone</a></li>
 						<li class="nav-item"><a
 							class=" textBox nav-link active text-light px-3 "
-							aria-current="page" href="/ipad.jsp">iPad</a></li>
+							aria-current="page" href="/ASM/iPad.jsp">iPad</a></li>
 						<li class="nav-item"><a
 							class="textBox nav-link active text-light px-3 "
 							aria-current="page" href="/ASM/Mac.jsp">Mac</a></li>
@@ -273,8 +273,8 @@
 			
 			</div>
 			<div class="col-md-12 text-center py-4">
-				<a href="/ipad" class="btn btn-outline-primary" 
-					style="height: 40px; width: 220px;">Xem tất cả iPad ></a>
+				<button type="button" class="btn btn-outline-primary"
+					style="height: 40px; width: 220px;">Xem tất cả iPad ></button>
 			</div>
 			<h2 class="text-center pb-3">Mac</h2>
 			<div class="container">

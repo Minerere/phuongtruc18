@@ -5,7 +5,7 @@
 <html lang="en">
 
 <head>
-<title>ShoDdunk - iPhone</title>
+<title>Shopdunk - iPhone</title>
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport"
@@ -185,15 +185,10 @@
 						</div>
 						<div class="card-footer">
 							Giới thiệu
-							<h5>iPad Pro M2 12.9” được trang bị công nghệ Liquid Retina
-								XDR, tích hợp tới 10,000 đèn LED mini, chia thành 2500 vùng rải
-								rác khắp màn hình. Tùy thuộc vào nội dung hiển thị mà độ
-								sáng/tối của từng vùng có thể thay đổi, tạo nên sự tương phản
-								màu sắc chân thực và phong phú. làm rất tốt trong việc mang đến
-								chất lượng hiển thị mượt mà và sống động cho iPad Pro M2. Đây
-								vẫn là ưu điểm lý tưởng dành cho những ai làm đồ họa chuyên
-								nghiệp, thường xuyên phải chỉnh sửa hình ảnh/video hoặc chỉ đơn
-								giản là muốn thưởng thức những bộ phim yêu thích.</h5>
+							<h5>ShopDunk cam kết 100% về chất lượng sản phẩm bán ra 
+							quý khách hàng có thể đổi trả 1:1 nếu trong vòng 30 ngày 
+							đầu sản phẩm bị lỗi , chúng tôi cam kết làm hài lòng khách
+							hàng khi mua và trải nghiệm dịch vụ tại shopdunk</h5>
 						</div>
 					</div>
 				</div>

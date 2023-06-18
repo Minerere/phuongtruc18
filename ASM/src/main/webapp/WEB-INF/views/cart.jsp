@@ -6,7 +6,7 @@
 <html lang="en">
 
 <head>
-<title>ShoDdunk - iPhone</title>
+<title>Shopdunk - iPhone</title>
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport"
